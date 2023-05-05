@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    "typeRoots": ["./typings", "./node_modules/@types"],
+    "types": ["vuetify"],
     "target": "ES2020",
     "useDefineForClassFields": true,
     "module": "ESNext",
